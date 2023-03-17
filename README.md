@@ -1,3 +1,3 @@
 # PinterestClone
-ITI project
+ITI project .. 
 Pinterest Clone using Django
